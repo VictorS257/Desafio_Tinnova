@@ -37,3 +37,5 @@
                   deletado.
                   Na automação foi passado o ID de itens válidos, porém uma vez que forem executados estes testes, estes
                   itens serão deletados e será necessário informar outros ID's para as próximas execuções.
+
+            - Mapa mental da automação: https://miro.com/welcomeonboard/SG9vVmVKclRtMmFwbWVQeEdYREczOTR1ZWxJdDA1UjNrM2VhR21EVGNKd2hDSm9YT1IxMWgzdHE4N1p6ZW1iaHwzNDU4NzY0NTc0Nzk1OTQ2OTMyfDI=?share_link_id=508776163098
