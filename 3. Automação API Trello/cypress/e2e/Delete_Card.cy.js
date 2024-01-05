@@ -1,6 +1,6 @@
 describe ('Deletar um Card', () => {
     // Aqui é passado o ID do Card a ser deletado
-    const CardID = '659860885c6bc789e7f6b9c4'
+    const CardID = '659860069c33451c3c040fec'
     // Envio a requisição para a API
     it.only('Delete Card', () => {
         cy.request({

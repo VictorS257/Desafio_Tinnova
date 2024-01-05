@@ -1,6 +1,6 @@
 describe ('Deletar um Board', () => {
 //Aqui é passado o ID do Board a ser excluído    
-const BoardID = '6598606a7e2c9e5f126fa2ad'
+const BoardID = '6598608500d2b62a1c415a27'
     //Envio a requisição para a API
     it.only('Delete Board', () => {
         cy.request({
